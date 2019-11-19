@@ -1,3 +1,10 @@
+To run the cloned project. Navigate into the diirectory it is in and then open command prompt and run the following commmands.
+
+<code>
+pip install requirements.txt
+python flappy_bird.py
+<code>
+
 Using learning algorithms, we want to allow AI player to do a training set with different definitions of states, and learn the flappy bird world.After the training set, we want the bird to successfully continue playing as long as we want without any hit.
 
 Our project mainly consists of 2 phases:
