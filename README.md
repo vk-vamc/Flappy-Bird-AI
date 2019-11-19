@@ -1,9 +1,7 @@
 To run the cloned project. Navigate into the diirectory it is in and then open command prompt and run the following commmands.
 
 <code>
-pip install requirements.txt
-<code>
-<code>
+pip install requirements.txt |
 python flappy_bird.py
 <code>
 
