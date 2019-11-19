@@ -118,3 +118,5 @@ If a new node is added, it is placed between two nodes that are already connecte
 Crossing over the genomes of two neural networks could result in networks that are horribly mutated and non-functional.
 
 NEAT tackles this issue through the usage of historical markings (as seen above). By marking new evolutions with a historical number, when it comes time to crossover two individuals, this can be done with much less chance of creating individuals that are non-functional. Each gene can be aligned and (potentially) crossed-over. Each time a new node or new type of connection occurs, a historical marking is assigned, allowing easy alignment when it comes to breed two of our individuals.
+
+**Reference Paper:** [http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf]
